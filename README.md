@@ -1,4 +1,5 @@
 # Dr Elizabeth Blackwell connections
+Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Ada Lovelace](https://github.com/altealo/AdaLovelace/blob/master/README.md)|[Blackwell, E. *Pioneer work in opening the medical profession to women. .Autobiographical sketches.*](https://digital.library.upenn.edu/women/blackwell/pioneer/pioneer.html)|
